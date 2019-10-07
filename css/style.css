@@ -207,12 +207,10 @@ legend{
 }
 footer{
     position: relative;
-    top: 25em;
+    top: 25em; 
     background: rgb(67, 133, 102);
     text-transform: uppercase;
     color: #fff;
-    padding: 0;
-    margin-bottom: 0;
 }
 .center{
     position: relative;
