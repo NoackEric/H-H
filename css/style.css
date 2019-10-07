@@ -86,14 +86,12 @@ section{
     display: flex;
 }
 .flex-box2{
-    position: relative;
-    top:10em; 
     display: flex;
     flex-flow: column wrap;
     height: 100vh; 
     text-align: left;
     margin-left: 3em;
-    align-content: center;
+    justify-content: center;
 }
 .flex-box2 h2{
     font-family: 'Lora';
